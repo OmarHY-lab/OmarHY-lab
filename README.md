@@ -1,12 +1,23 @@
-# 👋 QA Tester Portfolio
+<!-- BANNER DE CABECERA -->
+<img src="images/banner-qa.jpg" alt="QA Banner" width="100%"/>
 
-**Omar Hernández Yebra**  
-omar.ye.omar@gmail.com  
-[LinkedIn](http://www.linkedin.com/in/omar-hernandez-yebra-150417398) | 📱 52-477-694-1465
+<!-- FOTO DE PERFIL -->
+<div align="center">
+  <img src="images/foto-perfil.jpg" alt="Omar Hernández" width="180" style="border-radius: 50%; border: 4px solid #2D9CDB;"/>
+  
+  # 👋 QA Tester Portfolio
+  
+  ## Omar Hernández Yebra
+  
+  omar.ye.omar@gmail.com  
+    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/omar-hernandez-yebra-150417398) 
+  📱 52-477-694-1465
+</div>
 
 ---
 
-> *"I don't just test what a system does; I investigate what the system means to the people who use it."*
+> ### 💡 *"I don't just test what a system does; I investigate what the system means to the people who use it."*
 
 ---
 
@@ -26,9 +37,9 @@ In this portfolio, I want to showcase my practical skills in both manual and aut
 
 Completing my **QA Engineering program at TripleTen** allowed me to bridge the gap between abstract problem-solving and technical execution. During this intensive hands-on experience, I mastered:
 
-- Creating comprehensive test documentation (test cases, bug reports, and checklists)
-- Testing **REST APIs with Postman**
-- Designing functional end-to-end automation scripts using **Python, PyTest, and Selenium WebDriver**
+- ✅ Creating comprehensive test documentation (test cases, bug reports, and checklists)
+- ✅ Testing **REST APIs with Postman**
+- ✅ Designing functional end-to-end automation scripts using **Python, PyTest, and Selenium WebDriver**
 
 Additionally, my previous professional experience in **Records Management** played a vital role in shaping my QA mindset. In that field, I was responsible for overseeing the absolute accuracy, consistency, and classification of massive amounts of data.
 
@@ -36,71 +47,83 @@ This role taught me how to analyze complex systems from the ground up, handle ed
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Technologies
 
-- **Jira** - Managing tasks, tracking sprint progress, and scrum workflow
-- **Notion** - Organizing test plans, documentation, and personal knowledge base
-- **Slack** - Team communication and cross-functional collaboration
-- **Chrome DevTools** - Analyzing network requests, inspecting elements, and improving bug reports
-- **Git** - Version control and managing code changes within a development team
-- **GitHub** - Hosting repositories, code reviews, and managing QA portfolios
-- **Markdown** - Formatting clean and readable documentation in GitHub readmes
-- **Postman** - Testing REST APIs, verifying endpoints, and validating JSON responses
-- **Android Studio** - Setting up emulators for mobile application testing
-- **Figma** - Inspecting UI/UX designs to verify front-end layout consistency
-- **Command Line (Bash/SSH)** - Navigating directories and executing basic server commands
-- **DBeaver / pgAdmin** - Database management tools for practicing and executing SQL queries
+<div align="center">
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
 ## 💻 Technical Skills
 
-- **Software Testing** - Designing test cases, checklists, and tracking bugs through SDLC
-- **Automated Testing** - Creating end-to-end front-end web tests from scratch
-- **Python & PyTest** - Programming automated test suites and handling parametric data
-- **Selenium WebDriver** - Implementing the Page Object Model (POM) for clean, maintainable automation
-- **SQL (PostgreSQL / MySQL)** - Writing queries, using JOINs, and validating data consistency
-- **REST API Testing** - Verifying status codes, headers, and payloads in backend services
-- **Mobile Testing** - Performing functional and UI verification on Android environments
-- **Functional Testing** - Ensuring the application behaves according to business requirements
-- **Regression & Smoke Testing** - Validating system stability after code deployments
-- **Integration Testing** - Checking data flows between different software modules
-- **Agile Methodology** - Participating in Scrum ceremonies, sprint planning, and daily standups
+| Área | Habilidad | Nivel |
+|------|-----------|-------|
+| 🧪 | Manual Testing | ████████████████░░░░ 80% |
+| 🤖 | Automation (Python) | ██████████████░░░░░░ 70% |
+| 🗄️ | SQL | ██████████████░░░░░░ 70% |
+| 🔌 | API Testing | ████████████████░░░░ 80% |
+| 📝 | Test Documentation | ██████████████████░░ 90% |
+| 🔄 | Agile/Scrum | ████████████████░░░░ 80% |
 
 ---
 
-## 📁 Soft Skills
+## 📂 Proyectos Destacados
 
-- **Analytical Thinking** - Breaking down complex software systems to identify root causes
-- **Technical Writing** - Drafting clear, concise bug reports and technical documentation (B2+ English)
-- **Attention to Detail** - Detecting edge cases and subtle UI/data discrepancies
-- **Effective Communication** - Bridging technical requirements and business logic
-- **Adaptability & Lifelong Learning** - Quickly absorbing new tech stacks and project domains
+### 🚀 Proyecto 1: Automatización de Pruebas Web
 
----
+<div align="center">
+  <img src="images/proyecto1.png" alt="Proyecto 1" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
 
-## 🔍 Critical Systems Reading
+**Descripción**: Framework de automatización para pruebas end-to-end usando Python y Selenium WebDriver.
 
-As a researcher, I learned to **read between the lines** of centuries-old documents. As a QA, I apply this same skill to:
-- Analyze user flows
-- Identify inconsistencies
-- Contextualize bugs within broader technical architectures
+**📌 Tecnologías**: `Python` `Selenium` `PyTest` `POM`
+
+[🔗 Ver repositorio](https://github.com/tu-usuario/proyecto1)
 
 ---
 
-## 📂 My Projects
+### 🚀 Proyecto 2: Testing de API REST
 
-*[Aquí puedes poner una tabla o lista con tus proyectos]*
+<div align="center">
+  <img src="images/proyecto2.png" alt="Proyecto 2" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| Proyecto 1 | Breve descripción | Python, Selenium |
-| Proyecto 2 | Breve descripción | Postman, API |
+**Descripción**: Suite de pruebas para API REST incluyendo validación de endpoints.
+
+**📌 Tecnologías**: `Postman` `API REST` `JSON`
+
+[🔗 Ver repositorio](https://github.com/tu-usuario/proyecto2)
 
 ---
 
 ## 📬 Contacto
 
+<div align="center">
+
 📧 **Email**: omar.ye.omar@gmail.com  
 📱 **Teléfono**: 52-477-694-1465  
-🔗 **LinkedIn**: [www.linkedin.com/in/omar-hernandez-yebra-150417398](http://www.linkedin.com/in/omar-hernandez-yebra-150417398)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/omar-hernandez-yebra-150417398)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmartHY-lab)
+
+</div>
+
+---
+
+<p align="center">
+  <i>"Quality is not an act, it is a habit." - Aristotle</i>
+</p>
