@@ -1,5 +1,12 @@
-<!-- BANNER DE CABECERA -->
-<img src="images/banner-qa.jpg" alt="QA Banner" width="100%"/>
+<!-- BANNER DE CABECERA CON EFECTO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=120&section=header&text=QA%20Tester&fontSize=60&fontAlignY=30"/>
+</p>
+
+<!-- EFECTO MÁQUINA DE ESCRIBIR -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=QA+Engineer;Manual+QA+Tester;Automation+Enthusiast;API+Testing+Specialist;Python+%26+Selenium+Developer" alt="Typing SVG"/>
+</p>
 
 <!-- FOTO DE PERFIL -->
 <div align="center">
