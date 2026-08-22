@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=QA+Engineer;Manual+QA+Tester;Automation+Enthusiast;API+Testing+Specialist;Python+%26+Selenium+Developer" alt="Typing SVG"/>
 </p>
 
-<!-- FOTO DE PERFIL CON MARCO PROFESIONAL -->
-<div align="center">
-  <img src="images/foto-perfil.jpg" alt="Omar Hernández" width="180" style="border-radius: 50%; border: 6px solid #0A4D3E; box-shadow: 0 0 20px rgba(10, 77, 62, 0.5); padding: 5px; background: linear-gradient(135deg, #0A4D3E, #1A3A4E);"/>
   
   # 👋 QA Tester Portfolio
   
